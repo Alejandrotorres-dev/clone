@@ -1,2 +1,2 @@
 # clone
-clone prueba
+clone prueba desde mi pc
